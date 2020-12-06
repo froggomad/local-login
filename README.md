@@ -33,7 +33,7 @@
   <h3 align="center">Local Login</h3>
 
   <p align="center">
-    Swift 5 Local Login using Storyboard and UserDefaults<a href="https://github.com/froggomad/local-login/issues">Request Feature</a>
+    Swift 5 Local Login using Storyboard and UserDefaults
   </p>
 
 <!-- LICENSE -->
