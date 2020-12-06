@@ -34,7 +34,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/froggomad/repo_name">
+  <a href="https://github.com/froggomad/local-login">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -43,14 +43,14 @@
   <p align="center">
     YOUR_SHORT_DESCRIPTION
     <br />
-    <a href="https://github.com/froggomad/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/froggomad/local-login"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/froggomad/repo_name">View Demo</a>
+    <a href="https://github.com/froggomad/local-login">View Demo</a>
     ·
-    <a href="https://github.com/froggomad/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/froggomad/local-login/issues">Report Bug</a>
     ·
-    <a href="https://github.com/froggomad/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/froggomad/local-login/issues">Request Feature</a>
   </p>
 </p>
 
@@ -108,7 +108,7 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/froggomad/repo_name.git
+git clone https://github.com/froggomad/local-login.git
 ```
 2. Install NPM packages
 ```sh
@@ -129,7 +129,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/froggomad/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/froggomad/local-login/issues) for a list of proposed features (and known issues).
 
 
 
@@ -158,7 +158,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@KennyDubroff](https://twitter.com/KennyDubroff) - kenny.dubroff@kennydubroff.com
 
-Project Link: [https://github.com/froggomad/repo_name](https://github.com/froggomad/repo_name)
+Project Link: [https://github.com/froggomad/local-login](https://github.com/froggomad/local-login)
 
 
 
@@ -176,15 +176,15 @@ Project Link: [https://github.com/froggomad/repo_name](https://github.com/froggo
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/froggomad/repo.svg?style=flat-square
-[contributors-url]: https://github.com/froggomad/repo/graphs/contributors
+[contributors-url]: https://github.com/froggomad/local-login/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/froggomad/repo.svg?style=flat-square
-[forks-url]: https://github.com/froggomad/repo/network/members
+[forks-url]: https://github.com/froggomad/local-login/network/members
 [stars-shield]: https://img.shields.io/github/stars/froggomad/repo.svg?style=flat-square
-[stars-url]: https://github.com/froggomad/repo/stargazers
+[stars-url]: https://github.com/froggomad/local-login/stargazers
 [issues-shield]: https://img.shields.io/github/issues/froggomad/repo.svg?style=flat-square
-[issues-url]: https://github.com/froggomad/repo/issues
+[issues-url]: https://github.com/froggomad/local-login/issues
 [license-shield]: https://img.shields.io/github/license/froggomad/repo.svg?style=flat-square
-[license-url]: https://github.com/froggomad/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/froggomad/local-login/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/froggomad
 [product-screenshot]: images/screenshot.png
