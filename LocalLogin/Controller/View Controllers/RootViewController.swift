@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  RootViewController.swift
 //  LocalLogin
 //
 //  Created by Kenny on 12/5/20.
@@ -7,13 +7,11 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class RootViewController: UIViewController {
+    var user: User?
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        print(user?.username)
     }
-
-
 }
-
