@@ -46,7 +46,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@KennyDubroff](https://twitter.com/KennyDubroff) - kenny.dubroff@kennydubroff.com
+[@KennyDubroff](https://twitter.com/KennyDubroff) - kenny.dubroff@kennydubroff.com
 
 Project Link: [https://github.com/froggomad/local-login](https://github.com/froggomad/local-login)
 
